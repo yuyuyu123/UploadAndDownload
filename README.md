@@ -1,15 +1,21 @@
 # UploadAndDownload
 An upload and download library based on retrofit2 and okhttp3.
 
-Effect:
-1.Download a file:
-![image](https://github.com/yuyuyu123/UploadAndDownload/blob/master/screenshot1.gif)
-
-2.Upload a file:
-![image](https://github.com/yuyuyu123/UploadAndDownload/blob/master/screenshot2.gif)
+#Effect:
+#1.Download a file:
 
 
-How to download?For example:download an apk file:
+    ![image](https://github.com/yuyuyu123/UploadAndDownload/blob/master/screenshot1.gif)
+
+#2.Upload a file:
+
+
+    ![image](https://github.com/yuyuyu123/UploadAndDownload/blob/master/screenshot2.gif)
+
+
+#How to download?For example:download an apk file:
+
+
     private String strApk = "http://oss-ccclubs.oss-cn-hangzhou.aliyuncs.com/app/20161208174314986.apk";
     private void startDownloadApk(String url) {
         RetrofitDownloadConfig retrofitDownloadConfig = new RetrofitDownloadConfig.Builder(this)
@@ -47,7 +53,9 @@ How to download?For example:download an apk file:
     }
     
     
-How to upload a file?For example:upload an image file:
+#How to upload a file?For example:upload an image file:
+
+
     private String url = "http://pic.test.com/";//your file server address
     private String nameKey = "file";
     private void uploadFile(File file) {
