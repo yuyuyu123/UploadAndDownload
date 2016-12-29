@@ -338,7 +338,7 @@ public class UploadActivity extends AppCompatActivity implements
         }
     }
 
-    private String url = "http://static.ccclubs.com/upload/up.do";//你的文件服务器地址
+    private String url = "http://test.pic.com/";//你的文件服务器地址
     private String nameKey = "file";
     private void uploadFile(File file) {
         Map<String, Object> paramMap = new HashMap<>();
