@@ -4,11 +4,11 @@ An upload and download library based on retrofit2 and okhttp3.
 #Effects:
 1.Download a file:
 
-    ![image](https://github.com/yuyuyu123/UploadAndDownload/blob/master/screenshot1.gif)
+   ![image](https://github.com/yuyuyu123/UploadAndDownload/blob/master/screenshot1.gif)
 
 2.Upload a file:
 
-    ![image](https://github.com/yuyuyu123/UploadAndDownload/blob/master/screenshot2.gif)
+   ![image](https://github.com/yuyuyu123/UploadAndDownload/blob/master/screenshot2.gif)
 
 
 How to download?For example:download an apk file:
