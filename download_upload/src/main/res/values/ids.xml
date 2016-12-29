@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <item name="modalLoadingView" type="id"/>
+  <item name="loadingView" type="id"/>
+  <item name="contentView" type="id"/>
+  <item name="errorView" type="id"/>
+  <item name="emptyView" type="id"/>
+  <item name="empty_img" type="id"/>
+  <item name="empty_text" type="id"/>
+
+  <item name="toolbar" type="id"/>
+
+</resources>

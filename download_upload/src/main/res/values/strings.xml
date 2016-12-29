@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">commonLibs</string>
+  <string name="common_exit">再按一次退出程序！</string>
+
+  <string name="network_error">网络未连接</string>
+  <string name="network_wifi">正在使用wifi</string>
+  <string name="network_mobile">正在使用移动网络</string>
+</resources>
