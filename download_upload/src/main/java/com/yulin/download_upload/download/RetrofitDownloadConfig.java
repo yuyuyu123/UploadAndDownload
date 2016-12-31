@@ -14,7 +14,7 @@ import java.io.File;
  * Instances of this class should be obtained through
  * {@link Builder#build()}
  *
- * @Auther LiuLiWei
+ * @Author YuLin
  */
 public class RetrofitDownloadConfig {
 
