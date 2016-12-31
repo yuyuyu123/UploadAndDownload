@@ -12,7 +12,7 @@ import java.util.Map;
  * Instances of this class should be obtained through
  * {@link Builder#build()}
  *
- * @Auther LiuLiWei
+ * @Author YuLin
  */
 public class RetrofitUploadConfig {
 
