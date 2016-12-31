@@ -16,7 +16,7 @@ import java.lang.reflect.ParameterizedType;
  * 3)error
  *      {@link #onUploadError(Throwable)}
  *
- * @Author LiuLiWei
+ * @Author YuLin
  */
 public abstract class RetrofitUploadAdapter<T> {
     /**
