@@ -38,7 +38,7 @@ import retrofit2.Response;
  * Note that the application must have the {@link android.Manifest.permission#INTERNET}
  * permission to use this class.
  *
- * @Author LiuLiWei
+ * @Author YuLin
  */
 public class RetrofitUploadManager {
     /**
