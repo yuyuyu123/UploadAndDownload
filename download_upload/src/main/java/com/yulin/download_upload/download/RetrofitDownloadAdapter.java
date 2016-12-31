@@ -13,7 +13,7 @@ package com.yulin.download_upload.download;
  * 4)error
  *      {@link #onDownloadError(Throwable)}
  *
- * @Author LiuLiWei
+ * @Author YuLin
  */
 public abstract class RetrofitDownloadAdapter {
 
