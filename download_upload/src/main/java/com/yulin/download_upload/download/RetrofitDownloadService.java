@@ -12,7 +12,7 @@ import retrofit2.http.Url;
  * Instances of this class should be obtained through
  * {@link com.yulin.download_upload.api.ManagerFactory#getManager(Class)}.
  *
- * @Auther LiuLiWei
+ * @Author YuLin
  */
 public interface RetrofitDownloadService {
 
