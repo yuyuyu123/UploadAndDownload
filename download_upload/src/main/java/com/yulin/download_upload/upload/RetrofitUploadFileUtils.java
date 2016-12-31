@@ -9,7 +9,7 @@ import android.provider.MediaStore;
 /**
  * This class contains some common methods about file's operation.
  *
- * @Author LiuLiWei
+ * @Author YuLin
  */
 public class RetrofitUploadFileUtils {
 
